@@ -31,8 +31,8 @@ const oklchToHex = (str) => {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://daem0nu.netlify.app/",
-  base: "/",
+  site: "https://daem0nu.github.io",
+  base: "/astro-blog",
   trailingSlash: "always",
   integrations: [
     tailwind(),
