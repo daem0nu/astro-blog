@@ -272,3 +272,7 @@ Accept-Language: en-US,en;q=0.9
 
 - <https://github.com/ViktorMares/vue-js-xss-payload-list>
 - <https://pswalia2u.medium.com/exploiting-xss-stealing-cookies-csrf-2325ec03136e>
+- <https://cn.vuejs.org/guide/essentials/template-syntax#text-interpolation>
+- <https://v2.cn.vuejs.org/v2/guide/syntax.html#%E6%96%87%E6%9C%AC>
+- <https://stackoverflow.com/questions/71769586/what-is-constructor-constructor-in-javascript>
+- <https://portswigger.net/research/evading-defences-using-vuejs-script-gadgets>
